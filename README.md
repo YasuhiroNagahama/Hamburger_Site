@@ -10,7 +10,7 @@ https://yasuhironagahama.github.io/Hamburger_Site/
 
 HTML、CSSの練習用に作成したサイトです。
 模写修行というサービスが提供しているデザインをもとにコーディングしました。
-模写修行 : https://moshashugyo.com/
+模写修行URL : https://moshashugyo.com/
 
 # Author
 
